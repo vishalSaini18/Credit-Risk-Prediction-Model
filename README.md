@@ -1,5 +1,13 @@
 # Credit-Risk-Prediction-Model
-Developed a multiclass classification model using XGBoost to predict credit risk appetite, incorporating feature selection and multicollinearity analysis.
+Built a credit risk prediction model using XGBoost with feature selection and multicollinearity checks.
+
+
+
+
+
+
+
+
 
 
 
