@@ -1,5 +1,5 @@
-# Credit-Risk-Prediction-Model
-Built a credit risk prediction model using XGBoost with feature selection and multicollinearity checks.
+# ML DL Projects
+This repo contains my ML/DL Projects
 
 
 
